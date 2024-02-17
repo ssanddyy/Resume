@@ -1,8 +1,6 @@
 
 <html>
 <head>
-<title>Sandy's Resume</title>
-</head>
 
 
 <h1>Sandy Sanchez</h1>
